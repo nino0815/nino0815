@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Super Mario Text Game
+
+This repository includes a small text-based Mario-style game written in Python. It
+uses the `curses` module to draw the level in your terminal.
+
+### How to run
+
+1. Ensure Python 3 is installed (the game was tested with Python 3.12).
+2. Run the game with:
+
+   ```bash
+   python3 mario.py
+   ```
+
+   Use the arrow keys or `A`/`D` to move and `W` or the space bar to jump. Press
+   `q` to quit.
